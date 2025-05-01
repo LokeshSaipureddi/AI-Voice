@@ -1,0 +1,12 @@
+[submodule "Make-An-Audio"]
+	path = Make-An-Audio
+	url = https://github.com/LokeshSaipureddi/Make-An-Audio.git
+[submodule "StyleTTS2"]
+	path = StyleTTS2
+	url = https://github.com/LokeshSaipureddi/StyleTTS2.git
+[submodule "StyleTTS2FineTune"]
+	path = StyleTTS2FineTune
+	url = https://github.com/LokeshSaipureddi/StyleTTS2FineTune.git
+[submodule "seed-vc"]
+	path = seed-vc
+	url = https://github.com/LokeshSaipureddi/seed-vc.git
