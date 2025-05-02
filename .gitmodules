@@ -4,3 +4,9 @@
 [submodule "seed-vc"]
 	path = seed-vc
 	url = https://github.com/LokeshSaipureddi/seed-vc.git
+[submodule "StyleTTS2"]
+	path = StyleTTS2
+	url = https://github.com/LokeshSaipureddi/StyleTTS2.git
+[submodule "StyleTTS2FineTune"]
+	path = StyleTTS2
+	url = https://github.com/LokeshSaipureddi/StyleTTS2FineTune.git
