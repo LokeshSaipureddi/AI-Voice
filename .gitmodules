@@ -8,5 +8,5 @@
 	path = StyleTTS2
 	url = https://github.com/LokeshSaipureddi/StyleTTS2.git
 [submodule "StyleTTS2FineTune"]
-	path = StyleTTS2
+	path = StyleTTS2FineTune
 	url = https://github.com/LokeshSaipureddi/StyleTTS2FineTune.git
