@@ -8,8 +8,9 @@ The backend uses deep learning models like Make-An-Audio, StyleTTS2, and seed-vc
 
 ## 🎬 Demo Video
 
-<video src="assets/demo.mp4" controls width="100%"></video>
+📺 [Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1ZhQDr6s3t0CCQ6oc3smRt1RK-Y9Fqjp7/view?usp=sharing)
 
+---
 ## 🔧 Techniques and Implementation Highlights
 
 * **[AWS EC2 G5 Instances](https://aws.amazon.com/ec2/instance-types/g5/)** – Used for GPU-based fine-tuning of TTS and VC models.
